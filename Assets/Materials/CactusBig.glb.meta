@@ -1,0 +1,35 @@
+fileFormatVersion: 2
+guid: 1c4e425d0a523ba4ca5727f0b683315d
+importerOverride: UnityGLTFEditor:UnityGLTF:GLTFImporter
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Opaque_Mat
+    second: {fileID: 2100000, guid: 8ff2c45a051b7f5449bf255425d83d88, type: 2}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 804e1ce4c496647cfa3f1a1134187c71, type: 3}
+  _removeEmptyRootObjects: 1
+  _scaleFactor: 1
+  _maximumLod: 300
+  _readWriteEnabled: 1
+  _generateColliders: 0
+  _swapUvs: 0
+  _generateLightmapUVs: 0
+  _importNormals: 0
+  _importTangents: 0
+  _importAnimations: 2
+  _animationLoopTime: 1
+  _animationLoopPose: 0
+  _importMaterials: 1
+  _useSceneNameIdentifier: 1
+  materials:
+  - {fileID: 8683641660473123473, guid: 1c4e425d0a523ba4ca5727f0b683315d, type: 3}
+  _extensions: []
+  _textures: []
+  _mainAssetIdentifier: scenes/Scene
